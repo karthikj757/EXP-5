@@ -16,6 +16,12 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
+
+LINE REGULATION:
+<img width="1918" height="1020" alt="exp5 line regulation" src="https://github.com/user-attachments/assets/8f93f5e2-1d7f-4e15-8794-46a5f3a44ed9" />
+
+LOAD REGULATION:
+<img width="1918" height="1020" alt="exp 5 load regu;ation" src="https://github.com/user-attachments/assets/39bf5823-d2c9-48d4-a52c-7541c28dfc31" />
 THEORY:
 	
 A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
@@ -27,11 +33,24 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+   
 OBSERVATIONS:
+
+LINE REGULATION:
+
+![51](https://github.com/user-attachments/assets/6eecf4e6-0da8-4b38-85fd-09ba76647168)
+
+LOAD REGULATION:
+
+![WhatsApp Image 2026-03-17 at 8 40 27 PM](https://github.com/user-attachments/assets/ae1515ea-6f86-4bc4-a84d-524834140fe8)
 
 REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
+
+![WhatsApp Image 2025-12-20 at 09 39 14_bde175d9](https://github.com/user-attachments/assets/23ce17ea-9191-4ac5-b6e1-136b0cf8e5e1)
+![WhatsApp Image 2025-12-20 at 09 39 48_6704272d](https://github.com/user-attachments/assets/d4a1ad3b-25ed-4af0-840c-10aeadba45e2)
+
 
 PRECAUTIONS:
 
